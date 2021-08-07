@@ -208,7 +208,7 @@ child:  Column(
         margin: EdgeInsets.all(25),
         child: Column(children: [
           Text(
-            'loading Weather',
+           Loading_Weather,
             style: TextStyle(fontSize: 20),
           ),
           Container(
@@ -223,7 +223,7 @@ child:  Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Text(
-            'Press to download the Weather',
+           Press_to_download,
           ),
         ],
       ),

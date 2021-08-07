@@ -20,4 +20,8 @@ const String Temperature_Max = 'Temperature Max';
 const String Weather_Description = 'Weather Description';
 const String Wind_Speed = 'Wind Speed';
 const String Date = 'Date';
+const String Loading_Weather =  'loading Weather';
+const String Press_to_download = 'Press to download the Weather';
 
+
+ 
