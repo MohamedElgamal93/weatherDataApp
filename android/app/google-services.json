@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597549275198",
+    "firebase_url": "https://fir-authapplication-75213.firebaseio.com",
+    "project_id": "fir-authapplication-75213",
+    "storage_bucket": "fir-authapplication-75213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597549275198:android:f3827e64d024563f37196f",
+        "android_client_info": {
+          "package_name": "com.example.mohamedElgamalWeatherTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597549275198-cg84fj3odc00g71m0vejq1ajdsj48bfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWIiY9RPfZ07x94lGAXNoYoRnEt0pZDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597549275198-cg84fj3odc00g71m0vejq1ajdsj48bfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
